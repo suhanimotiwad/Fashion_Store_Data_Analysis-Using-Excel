@@ -1,4 +1,7 @@
 # Fashion Store Data Analysis Using Excel
+📍Download the dataset from here.
+
+📍Download the complete report from here.
 
 ## Objective
 
